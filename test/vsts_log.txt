@@ -1,5 +1,0 @@
-Microsoft.DX.JavaTestBridge.VSTS.exe Information: 0 : Connecting to VSTS https://gianlucabertelli.visualstudio.com/, Project: JavaTestBridge
-Microsoft.DX.JavaTestBridge.VSTS.exe Information: 0 : project JavaTestBridge found
-Microsoft.DX.JavaTestBridge.VSTS.exe Information: 0 : Found TEST method: testTrue, TestID=216
-Microsoft.DX.JavaTestBridge.VSTS.exe Information: 0 : Automated test method Microsoft.DX.JavaTestBridge.DynamicTests.AutomatedTestAssembly.testTrue associated to 216 | TestTRUE
-Microsoft.DX.JavaTestBridge.VSTS.exe Information: 0 : Found 1 tests, associated 1 (100%)
