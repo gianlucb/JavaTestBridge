@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.DX.JavaTestBridge.Common", "Microsoft.DX.JavaTestBridge.Common\Microsoft.DX.JavaTestBridge.Common.csproj", "{F3E75E56-3C16-48ED-866B-CACA8E2A9BE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.DX.JavaTestBridge.VSTS", "Microsoft.DX.JavaTestBridge.VSTS\Microsoft.DX.JavaTestBridge.VSTS.csproj", "{4B42D472-AC1D-4794-A609-A034D74D1CF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.DX.JavaTestBridge.UnitTestGenerator", "Microsoft.DX.JavaTestBridge.UnitTestGenerator\Microsoft.DX.JavaTestBridge.UnitTestGenerator.csproj", "{407396EC-55EB-4748-9883-0462AAB378B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3E75E56-3C16-48ED-866B-CACA8E2A9BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E75E56-3C16-48ED-866B-CACA8E2A9BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E75E56-3C16-48ED-866B-CACA8E2A9BE0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F3E75E56-3C16-48ED-866B-CACA8E2A9BE0}.Debug|x86.Build.0 = Debug|Any CPU
+		{F3E75E56-3C16-48ED-866B-CACA8E2A9BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E75E56-3C16-48ED-866B-CACA8E2A9BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3E75E56-3C16-48ED-866B-CACA8E2A9BE0}.Release|x86.ActiveCfg = Release|Any CPU
+		{F3E75E56-3C16-48ED-866B-CACA8E2A9BE0}.Release|x86.Build.0 = Release|Any CPU
+		{4B42D472-AC1D-4794-A609-A034D74D1CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B42D472-AC1D-4794-A609-A034D74D1CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B42D472-AC1D-4794-A609-A034D74D1CF3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4B42D472-AC1D-4794-A609-A034D74D1CF3}.Debug|x86.Build.0 = Debug|Any CPU
+		{4B42D472-AC1D-4794-A609-A034D74D1CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B42D472-AC1D-4794-A609-A034D74D1CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B42D472-AC1D-4794-A609-A034D74D1CF3}.Release|x86.ActiveCfg = Release|Any CPU
+		{4B42D472-AC1D-4794-A609-A034D74D1CF3}.Release|x86.Build.0 = Release|Any CPU
+		{407396EC-55EB-4748-9883-0462AAB378B1}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{407396EC-55EB-4748-9883-0462AAB378B1}.Debug|Any CPU.Build.0 = Debug|x86
+		{407396EC-55EB-4748-9883-0462AAB378B1}.Debug|x86.ActiveCfg = Debug|x86
+		{407396EC-55EB-4748-9883-0462AAB378B1}.Debug|x86.Build.0 = Debug|x86
+		{407396EC-55EB-4748-9883-0462AAB378B1}.Release|Any CPU.ActiveCfg = Release|x86
+		{407396EC-55EB-4748-9883-0462AAB378B1}.Release|Any CPU.Build.0 = Release|x86
+		{407396EC-55EB-4748-9883-0462AAB378B1}.Release|x86.ActiveCfg = Release|x86
+		{407396EC-55EB-4748-9883-0462AAB378B1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+Microsoft.DX.JavaTestBridge.UnitTestGenerator.exe Information: 0 : SUCCESS!
+C:\Projects\JavaTestBridge\test\AutomatedTestAssembly.dll written to disk.
+Tests created: 1
+Done.

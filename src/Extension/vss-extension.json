@@ -1,0 +1,54 @@
+{
+    "manifestVersion": 1,
+    "id": "JavaTestBridgeForTestPlan",
+    "name": "Test Plan association for Java tests",
+    "version": "1.0.13",
+    "publisher": "gianlucabertelli",
+    "targets": [
+        {
+            "id": "Microsoft.VisualStudio.Services"
+        }
+    ],    
+    "description": "This task allows you to associate Java method tests to Test Plan work items",
+    "categories": [
+        "Build and release"
+    ],
+    "screenshots": [
+    {
+      "path": "images/screenshots/build.png"
+    }
+    ],
+    "content": {
+        "details": {
+        "path": "readme.md"
+        }
+    },
+    "icons": {
+        "default": "images/icon.png"        
+    },
+    "tags": [
+    "build",
+    "java",
+    "test",
+    "test plan",
+    "work item",
+    "maven"
+    ],
+    "files": [
+        {
+            "path": "buildtask"
+        }
+    ],
+    "contributions": [
+        {
+            "id": "custom-build-task",
+            "type": "ms.vss-distributed-task.task",
+            "targets": [
+                "ms.vss-distributed-task.tasks"
+            ],
+            "properties": {
+                "name": "buildtask"
+            }
+        }
+    ]
+}
